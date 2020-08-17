@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-cd $HOME/tumblr-Source
+cd $HOME/TEMBLERX
 install() {
 rm -rf $HOME/.telegram-cli
 sudo chmod +x tg
-chmod +x tumblr-Source
+chmod +x TEMBLERX
 chmod +x ts
 ./ts
 }
